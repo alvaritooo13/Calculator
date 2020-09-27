@@ -2,13 +2,12 @@
 //  AppDelegate.swift
 //  Calculator
 //
-//  Created by Apps2t on 25/09/2020.
-//  Copyright © 2020 CEV. All rights reserved.
+//  Created by user177270 on 9/24/20.
 //
 
 import UIKit
 
-@UIApplicationMain
+@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
